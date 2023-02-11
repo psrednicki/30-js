@@ -1,3 +1,7 @@
 // this is your main.js script
 
-alert('Open the browser console whenever you work on JavaScript')
+import { useFoo } from "./foo.js";
+
+console.log("4 DAY")
+
+useFoo("FROM MAIN")
